@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Data Structurs and Algo's...
 - 💞️ I’m looking to collaborate on working on web projects like designing portfolio websites
 - 📫 How to reach me https://www.instagram.com/lade.sai/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
 
 <!---
 ladesai123/ladesai123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
